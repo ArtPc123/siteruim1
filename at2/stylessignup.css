@@ -1,0 +1,63 @@
+ a:link {
+     color: white;
+     text-decoration: none;
+     text-transform: uppercase;
+ }
+
+body{background-color:#a7a7a7}
+
+ header {
+     background-color: black;
+font-family:arial;
+ }
+
+ ul {
+     color: white;
+     list-style-type: none;
+font-family:arial;
+ }
+
+ li {
+     
+     margin-right: 10px;
+     font-size: 180%;
+font-family:arial; 
+}
+
+ h2 {
+     text-align: center;
+font-family:arial;
+ }
+
+ form {
+     text-align: center;
+font-family:arial;
+ }
+
+ #a1 {
+     text-align: center;
+ }
+
+ .a1 {
+     background-color: black;
+     color: white;
+     padding: 8px 20px;
+     text-decoration: none;
+     display: inline-block;
+     border-radius: 5px;
+     text-transform: uppercase;
+     position: static;
+     width: auto;
+     cursor: pointer;
+     margin-bottom: 25px;
+ }
+
+ footer {
+     background: black;
+     text-align: center;
+     position: absolute;
+     bottom: 0;
+     width: 100%;
+color:white;
+font-family:arial;
+ }
